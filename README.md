@@ -16,7 +16,7 @@ The game comes with an additional twist: the player starting the game cannot win
 
 ## Try it out
 
-[Link](torvaney.github.io/projects/wolf-and-hare)
+[Link](https://torvaney.github.io/projects/wolf-and-hare)
 
 ## Compile
 
